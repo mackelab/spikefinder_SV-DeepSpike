@@ -13,3 +13,4 @@ This algorithm uses the Theano and Lasagne deep learning libraries and is organi
   * The Example_run notebook shows how to train a network on the first challenge dataset and plots some results.
   * The SpikefinderSubmission notebook recreates our challenge submission (outcomment the respective parameter setting to train on each of the 5 datasets)
 
+Code for recurrent cells was taken from https://github.com/Lasagne/Lasagne/pull/629
