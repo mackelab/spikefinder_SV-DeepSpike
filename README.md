@@ -1,6 +1,6 @@
 # Spikefinder submission with supervised DeepSpike
 
-This is the code used to create the DeepSpike submission for the spikefinder challenge: http://spikefinder.codeneuro.org/
+This is the code used to create the DeepSpike submission (Artur Speiser, Srinivas Turaga, Jakob H. Macke) for the spikefinder challenge: http://spikefinder.codeneuro.org/
 
 We train recurrent neural networks trained on the available annotated data. 
 For details check [Community-based benchmarking improves spike inference from two-photon calcium imaging data](https://www.biorxiv.org/content/early/2017/08/18/177956)
